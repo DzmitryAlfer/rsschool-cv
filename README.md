@@ -1,1 +1,1 @@
-init: start Markdown & Git
+ https://DzmitryAlfer.github.io/rsschool-cv/cv
