@@ -9,3 +9,11 @@
    1. .NET
    1. Asp.NET
    1. Sharepoint
+1. **Sample code:**
+```C#
+public string ImageId
+        {
+            get { return _imageId; }
+            set { _imageId = value; }
+        }
+```
